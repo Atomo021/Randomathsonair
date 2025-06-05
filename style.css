@@ -10,3 +10,25 @@ html {
 footer a {
 	color: #000;
 }
+
+#pick {
+	text-align: center;
+}
+
+#easy {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#normal {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#hard {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
